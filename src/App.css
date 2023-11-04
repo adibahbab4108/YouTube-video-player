@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  display: grid;
+  place-items: center;
+}
+.wrapper {
+  /* border: 1px solisd; */
+  display: grid;
+  width: 50%;
+}
+.wrapper .form {
+  width: 100%;
+}
+.wrapper .youtube-box {
+  width: 100%;
+  
+  background: gray;
+  margin-top: 5px;
+}
